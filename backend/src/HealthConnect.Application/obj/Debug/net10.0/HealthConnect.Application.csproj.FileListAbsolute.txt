@@ -1,0 +1,15 @@
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\bin\Debug\net10.0\HealthConnect.Application.deps.json
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\bin\Debug\net10.0\HealthConnect.Application.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\bin\Debug\net10.0\HealthConnect.Application.pdb
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\bin\Debug\net10.0\HealthConnect.Domain.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\bin\Debug\net10.0\HealthConnect.Domain.pdb
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthCo.0F008A45.Up2Date
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\refint\HealthConnect.Application.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\HealthConnect.Application.pdb
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Application\obj\Debug\net10.0\ref\HealthConnect.Application.dll

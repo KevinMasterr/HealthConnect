@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/HealthConnect.Api/HealthConnect.Api.csproj" />
+    <Project Path="src/HealthConnect.Application/HealthConnect.Application.csproj" />
+    <Project Path="src/HealthConnect.Domain/HealthConnect.Domain.csproj" />
+    <Project Path="src/HealthConnect.Infrastructure/HealthConnect.Infrastructure.csproj" />
+    <Project Path="src/HealthConnect.Shared/HealthConnect.Shared.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/HealthConnect.IntegrationTests/HealthConnect.IntegrationTests.csproj" />
+    <Project Path="tests/HealthConnect.UnitTests/HealthConnect.UnitTests.csproj" />
+  </Folder>
+</Solution>

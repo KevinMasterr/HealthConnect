@@ -1,0 +1,11 @@
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\bin\Debug\net10.0\HealthConnect.Domain.deps.json
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\bin\Debug\net10.0\HealthConnect.Domain.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\bin\Debug\net10.0\HealthConnect.Domain.pdb
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\HealthConnect.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\HealthConnect.Domain.AssemblyInfoInputs.cache
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\HealthConnect.Domain.AssemblyInfo.cs
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\HealthConnect.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\HealthConnect.Domain.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\refint\HealthConnect.Domain.dll
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\HealthConnect.Domain.pdb
+C:\Users\kevin\OneDrive\Documents\HealthConnect\backend\src\HealthConnect.Domain\obj\Debug\net10.0\ref\HealthConnect.Domain.dll
